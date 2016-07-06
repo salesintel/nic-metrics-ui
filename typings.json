@@ -1,0 +1,22 @@
+{
+  "globalDependencies": {
+    "classnames": "registry:dt/classnames#0.0.0+20160316155526",
+    "lodash": "registry:dt/lodash#3.10.0+20160619033623",
+    "mocha": "registry:dt/mocha#2.2.5+20160619032855",
+    "moment": "registry:dt/moment#2.8.0+20160316155526",
+    "node": "registry:dt/node#6.0.0+20160621231320",
+    "numeraljs": "registry:dt/numeraljs#0.0.0+20160316155526",
+    "react": "registry:dt/react#0.14.0+20160621225615",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040",
+    "react-fa": "registry:dt/react-fa#4.0.0+20160204154304",
+    "react-infinite": "registry:dt/react-infinite#0.0.0+20151202162236",
+    "react-router": "registry:dt/react-router#2.0.0+20160621215300",
+    "react-router/history": "registry:dt/react-router/history#2.0.0+20160608102730",
+    "react-select": "registry:dt/react-select#1.0.0+20160628165410",
+    "should": "registry:dt/should#8.1.1+20160608082854",
+    "source-map": "registry:dt/source-map#0.0.0+20160317120654",
+    "superagent": "registry:dt/superagent#1.4.0+20160317120654",
+    "uglify-js": "registry:dt/uglify-js#2.6.1+20160316155526",
+    "webpack": "registry:dt/webpack#1.12.9+20160523035535"
+  }
+}
